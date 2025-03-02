@@ -1,6 +1,6 @@
 /**
 * Author: Si Yue Jiang
-* Assignment: Simple 2D Scene
+* Assignment: Pong Clone
 * Date due: 2025-02-15, 11:59pm
 * I pledge that I have completed this assignment without
 * collaborating with anyone else, in conformance with the
